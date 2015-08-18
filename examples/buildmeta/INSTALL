@@ -1,0 +1,9 @@
+pre() {
+    echo "Pre"
+}
+post() {
+    echo "Post"
+}
+post-remove() {
+    echo "Cleanup"
+}
